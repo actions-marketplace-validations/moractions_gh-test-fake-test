@@ -1,4 +1,4 @@
-name: "gh-packaging-action"
+name: "temp-test-dont-use"
 description: "Fake packaging GitHub Actions"
 author: "morwn"
 runs:
